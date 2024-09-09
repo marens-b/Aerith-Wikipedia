@@ -16,6 +16,7 @@ for (let dado of dados) {
         </h2>
         <p class="descricao-meta">${dado.descricao}</p>
         </div>
+        </div>
 `
 };
 
